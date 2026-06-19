@@ -1,0 +1,20 @@
+# 🔒 Pribadi — jangan pernah di-push!
+SOUL.md
+USER.md
+MEMORY.md
+IDENTITY.md
+
+# 🗂️ Riwayat chat & tugas sensitif
+tugas/riwayat-chat.md
+
+# ⚙️ OpenClaw internal state
+.openclaw/
+
+# 🪵 File log / system
+*.log
+*.tmp
+
+# ℹ️ Catatan lokal
+TOOLS.md
+HEARTBEAT.md
+BOOTSTRAP.md
