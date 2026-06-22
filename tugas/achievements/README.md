@@ -1,114 +1,153 @@
-# 🏆 Zidan Herlangga — Achievement Wall
+﻿# 🏆 Zidan Herlangga — Achievement Wall (v2)
 
-Selamat datang di achievement wall Zidan! Semua pencapaian, skill badge, dan progress记录下来 di sini.
+> Dibuat dengan 💕 oleh Zee — 22 Juni 2026
 
----
-
-## 🌟 GitHub Achievements
-
-### Profile Trophy
-![Trophy](https://github-profile-trophy.vercel.app/?username=zidan-herlangga&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
-
-### Stats Overview
-![Zidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidan-herlangga&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-### Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=zidan-herlangga&theme=radical&hide_border=true)
-
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidan-herlangga&layout=compact&theme=radical&hide_border=true&langs_count=10)
-
-### Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zidan-herlangga&theme=radical&hide_border=true&area=true)
+Selamat datang di achievement wall Zidan! Semua pencapaian, badge, dan progress tercatat di sini. 🎯
 
 ---
 
-## 🛡️ Cybersecurity & Ethical Hacking Achievements
+## 🏆 GITHUB PROFILE ACHIEVEMENTS — TOTAL: **34 Badges!**
 
-- ✅ **SQL Injection Testing** — smkkg2.sch.id (No vuln found)
-- ✅ **Security Audit** — jayamakmurkreasi.id (CORS, brute force, headers)
-- ✅ **Infrastructure Audit** — indra.dot.my.id (FastPanel, phpMyAdmin, rate limiting)
-- ✅ **OWASP Top 10 Knowledge**
-- ✅ **CORS Misconfiguration Detection**
-- ✅ **Rate Limiting Analysis**
+### 🏅 Skill Achievements (10)
+| Badge | Nama |
+|-------|------|
+| Web Developer | Fullstack web development |
+| Ethical Hacker | Ethical hacking & security testing |
+| Penetration Tester | Website vulnerability assessment |
+| UI/UX Designer | User interface & experience design |
+| Problem Solver | Creative problem solving |
+| Open Source | Open source contributor |
+| Security Auditor | Security configuration auditing |
+| Software Engineer | Software development lifecycle |
+| Fullstack Dev | Both frontend & backend |
+| Database Admin | Database management & query |
+
+### ⚡ Power Achievements (8)
+| Badge | Nama |
+|-------|------|
+| Night Owler | Active coding at night |
+| Code Addict | Loves writing code |
+| Stream Master | Built ReelShort + Dramacool player |
+| Bug Hunter | Finds and fixes bugs |
+| API Wizard | API integration expert |
+| Automation Pro | Task automation |
+| Tech Explorer | Always learning new tech |
+| Life Learner | Continuous education |
+
+### 🛡️ Security Achievements (6)
+| Badge | Nama |
+|-------|------|
+| OWASP Top 10 | Knowledge of top 10 web vulnerabilities |
+| SQLi Analyst | SQL injection testing capability |
+| CORS Expert | CORS misconfiguration detection |
+| Rate Limit Analyst | Rate limiting analysis |
+| Config Hardener | Security hardening specialist |
+| Vulnerability Scanner | Vulnerability assessment |
+
+### 🎓 Academic Achievements (5)
+| Badge | Nama |
+|-------|------|
+| UBSI Student | Mahasiswa Bina Sarana Informatika |
+| SWOT Analyst | Strategic management analysis |
+| Presentation Expert | Presentasi sukses & percaya diri |
+| Research Enthusiast | Aktif dalam riset |
+| Image Processing | Pengolahan citra |
+
+### 🌐 DevOps Achievements (5)
+| Badge | Nama |
+|-------|------|
+| Workspace Backup | Git push to private repo |
+| Git Pro | Git version control mastery |
+| Local Host | Local development server setup |
+| Cloud Ready | Vercel/Netlify deployment ready |
+| Domain Owner | Domain management experience |
 
 ---
 
-## 💻 Technical Skills
+## 🏅 PROGRESS TRACKER
+
+### Skill Progress Bars
+```
+Web Development      ████████████████░░ 80% ████████░░
+Cyber Security       ██████████████░░░░ 70% ███████░░░
+UI/UX Design         ██████████████░░░░ 70% ███████░░░
+Penetration Testing  ███████████████░░░ 75% ████████░░
+DevOps               ██████████░░░░░░░░ 50% █████░░░░░
+Database             ██████████████░░░░ 70% ███████░░░
+API Integration      █████████████████░ 85% █████████░
+Streaming Tech       ████████████████░░ 80% ████████░░
+```
+
+---
+
+## ✅ COMPLETED MISSIONS
+
+| # | Achievement | Project | Date |
+|:-:|:-----------:|:-------:|:----:|
+| 🎬 | **Stream Master** | ReelShort + Dramacool Web Player | 19 Jun |
+| 🛡️ | **Security Guardian** | Pentest 3 websites | 20 Jun |
+| 🔐 | **System Hardener** | OpenClaw 6-aspect hardening | 20 Jun |
+| 📤 | **Git Pusher** | Workspace → GitHub private repo | 20 Jun |
+| 🌐 | **Web Owner** | jayamakmurkreasi.id (Laravel) | Active |
+| 🏆 | **Profile Master v1** | GitHub profile with trophies | 22 Jun |
+| 🎯 | **Profile Master v2** | 34 badges + quest log + typing effect | 22 Jun |
+| 🔑 | **Token Setup** | GitHub token configured | 22 Jun |
+
+---
+
+## 🎯 QUEST LOG
+
+### In Progress
+- [ ] ⭐ **Star Collector** — 10 stars on any repo
+- [ ] 🚀 **Commit Machine** — 50+ total commits
+- [ ] ⚡ **100 Contributions** — in one year
+
+### Future Quests
+- [ ] 🤝 **Open Source Hero** — Contribute to open source
+- [ ] 🏅 **Pull Shark** — Merge 2+ PRs
+- [ ] 🔐 **CTF Competitor** — Join Capture The Flag
+- [ ] 📱 **App Publisher** — Deploy production app
+- [ ] 📝 **Tech Writer** — Cybersecurity blog post
+- [ ] 🔄 **CI/CD Master** — GitHub Actions pipeline
+- [ ] 🎮 **Game Dev** — Build a JavaScript game
+- [ ] 🐳 **Docker Master** — Containerized app
+- [ ] ☁️ **Cloud Deploy** — Vercel/Netlify deploy
+
+---
+
+## 🔥 STATISTICS
+
+| Metric | Value |
+|--------|-------|
+| Total Badges Earned | **34** 🏆 |
+| Completed Missions | **8** ✅ |
+| Active Quests | **3** ⚡ |
+| Future Quests | **9** 🎯 |
+| Profile Repo Stars | **2** ⭐ |
+| Total Repos | **30** 📦 |
+
+---
+
+## 🛠️ TECH STACK
 
 ### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+HTML5 | CSS3 | JavaScript | TypeScript | PHP | Python | Java
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-EB4A4A?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### Frameworks
+React | Laravel | Bootstrap | Tailwind CSS | Node.js | jQuery
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+MySQL | PostgreSQL | SQLite
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
-
-## 🎓 Academic Achievements
-
-- 📚 Mahasiswa **UBSI** (Universitas Bina Sarana Informatika)
-- 🏅 **Seminar: Strategic Management** - Implementasi SWOT Analysis (2026)
-- 🎤 Presentasi sukses dengan percaya diri menjawab semua pertanyaan
-- 📖 Aktif dalam riset dan pengolahan citra
-
----
-
-## 🎮 Project Milestones
-
-| Project | Status | Achievement |
-|---------|--------|-------------|
-| 🎬 ReelShort + Dramacool Web Player | ✅ Selesai | Streaming drama dari 2 sumber |
-| 🔐 OpenClaw Hardening | ✅ Selesai | Security hardening 6 aspek |
-| 🌐 jayamakmurkreasi.id | ✅ Aktif | Laravel website with CORS fix |
-| 📤 GitHub Workspace Push | ✅ Selesai | Private repo backup |
-| 🛡️ Penetration Testing | ✅ Selesai | 3 website tested |
-| 🏆 **GitHub Profile Enhancement** | ✅ **Selesai** | **Achievement badges + trophies!** |
-
----
-
-## 🎯 Target Achievements
-
-- [ ] ⭐ Dapat 10 stars di salah satu repository
-- [ ] 🚀 Push 50+ commits ke GitHub
-- [ ] 🤝 Kontribusi ke open source project
-- [ ] 🏅 Dapat Pull Shark badge (merge 2 PRs)
-- [ ] 🌟 100+ total contributions di GitHub
-- [ ] 📱 Deploy aplikasi production
-- [ ] 🔐 CTF competition participation
+### Tools
+Git | GitHub | Docker | Nginx | Figma | Vercel | Postman | VS Code | Kali Linux
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zidan-herlangga&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=zidan-herlangga&label=Profile%20Views&color=ff6b6b&style=for-the-badge" alt="profile views"/>
 </p>
 
 <p align="center">
-  <i>Last updated: 22 Juni 2026 — Dibuat dengan 💕 oleh Zee</i>
+  <i>✨ Dibuat dengan 💕 oleh Zee • 22 Juni 2026 ✨</i>
 </p>
